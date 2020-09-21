@@ -16,12 +16,15 @@
 
 
 #个人作品
-![MST题库](./img/mst.png)
+<!-- ![MST题库](./img/mst.png)
 ![花千铺](./img/1.jpg)
 ![地铁线路图](./img/2.jpg)
-![识图灵](./img/3.jpg)
+![识图灵](./img/3.jpg) -->
 
-
+<img src="./img/mst.png" width="100" alt="MST题库"/>
+<img src="./img/1.jpg" width="100" alt="花千铺"/>
+<img src="./img/2.jpg" width="100" alt="地铁线路图"/>
+<img src="./img/3.jpg" width="100" alt="识图灵"/>
 
 
 
